@@ -59,10 +59,11 @@
         9. Swift
         10. R
         11. Git
-        12. C#
-        13. C++
+        12. Markdown
+        13. C#
+        14. C++
 
-        #### Tools:
+#### Tools:
         
         1. Microsoft Office Suite
         2. Visual Studio Code
@@ -83,6 +84,12 @@
 ---
 
 ### Goals
+
+➡️ 
+
+➡️
+
+➡️ 
 
 ---
 
