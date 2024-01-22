@@ -85,11 +85,15 @@
 
 ### Goals
 
-➡️ 
+➡️  Develop a learning model project that I could sell.
 
-➡️
+➡️  Transcend in my section with a team of specialist able to solve problematics
 
-➡️ 
+➡️  Prove my knowledge to contribute and improve in the field.
+
+➡️  Take courses in cyber security and database management.
+
+➡️  Be a specialist in Big Data with a mastery in AI
 
 ---
 
