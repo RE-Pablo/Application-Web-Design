@@ -1,19 +1,42 @@
 
 # Pablo Elías Ramírez Escalante
+
 ## 6th Semester | Engineering in software development
+
 #### I've got interests on *Big data* data using *Python* (Pandas) or *R* to train neural connections and manage information to solve a problem, and I like to think of the best way to solve it. Also, the use of languages with porpouse in databases is something that I focus on learning because I am used to using *SQL*, *PHP*, and other environments to arrange a database like *MongoDB* or *MySQL*.
 ---
 
 ### About me
 
-Now I'm studying my 6th semester of engineering in *Software Development* at *Universidad TecMilenio*, where I have been the leader of multiple student groups (**Spirits and Enactus**) with 1 and a half years of experience in fundraising collaboration and event management. I am experienced in the organization of integrative activities aimed at students and teachers. My approach is based on an openness to listen and offer strategic alternatives, always in line with the established hierarchy.
+* **Enactus President | September 2022 – May 2023**
 
-Important Events:
+    As leader of Enactus at TecMilenio University, I guided the team towards social change through inspiration and guidance. I effectively communicated our vision and faced challenges with resilience. I fostered collaboration, handled conflicts positively, and outlined strategic plans aligned with Enactus' values. My ability to establish connections strengthened our external relationships, and as a representative, I proudly showcased our achievements to the university community and in various spheres.
 
-+ Organization of the **Ford Driving Skills For Life Mexico** event in person for +200 students with activities and talks on road awareness focused on University students.
-+ Project focused on developing the health and well-being objective (ONU) for which the talk “Breast Cancer” was coordinated at Cetis4 with 30 students on awareness and information about foundations that help patients with breast cancer.
+    Achievements:
+
+    * Coordination of **Ford Driving Skills For Life** Mexico event at TecMilenio Ferrería with social impact for +200 students.
+    * Fundraising for innovation projects.
+
+* **Spirits Vice President | February 2022 – April 2023**
+
+    In my role as vice president of the team at TecMilenio University, my focus was directed toward planning and directing integration events, managing funding for initiatives such as the robotics workshop and the student group itself, in addition to executing advocacy campaigns. recruiting new members.
+
+    Achievements:
+    * Recruitment campaign for new members, selection based on leadership skills and abilities.
 
 ---
+
+#### Skills:
+
+- Leadership and decision making.
+- Collaborative
+- Planning, strategy and order
+- Logic reasoning
+- Communication
+- Proactive
+- Engaged
+- Resolute
+- Teamwork
 
 #### Language and libraries:
 
@@ -40,21 +63,22 @@ Important Events:
         13. C++
 
         #### Tools:
-
-        1. Visual Studio Code
-        2. Google Colab
+        
+        1. Microsoft Office Suite
+        2. Visual Studio Code
+        3. Google Colab
             1. Jupyter
-        3. GitHub
-        4. Anaconda
+        4. GitHub
+        5. Anaconda
             1. Jupyter
-        5. XAMPP
+        6. XAMPP
             1. MySQL
             2. Apache
-        6. Xcode
-        7. Android Studio
-        8. MongoDB
-        9. RStudio
-        10. Visual Studio
+        7. Xcode
+        8. Android Studio
+        9. MongoDB
+        10. RStudio
+        11. Visual Studio
 
 ---
 
@@ -74,12 +98,11 @@ Important Events:
 
 ### Contact Information
 
-Email: pablo.rames.07@gmail.com
+- Email: pablo.rames.07@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pabloeescalante/)
 
-LinkedIn: https://www.linkedin.com/in/pabloeescalante/
-
-Github: https://github.com/RE-Pablo
+    [![Check out my GitHub](https://img.shields.io/badge/GitHub-RE--Pablo-black?style=for-the-badge&logo=github)](https://github.com/RE-Pablo)
 
 ---
 
-> **I see opportunities where others see obstacles** hola
+> ***I see opportunities where others see obstacles***
